@@ -30,7 +30,7 @@ This project provides a system to ingest logs and query them based on various at
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dyte-submissions/november-2023-hiring-ahammed03.git
+    git clone https://github.com/ahammed03/Log-Ingestor-and-Query-Interface.git
     cd log_ingestor_project
     ```
 
